@@ -1,0 +1,17 @@
+{
+    "name": "user/azurepractice",
+    "autoload": {
+        "psr-4": {
+            "User\\Azurepractice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronald Martinez",
+            "email": "rmartinez@integralplm.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}
